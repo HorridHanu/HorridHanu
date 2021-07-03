@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming!
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on github.
-- don't make programmers wild..!
+- Wild programmer!
 
 
 <!---
