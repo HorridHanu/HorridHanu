@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hanu
+- 👋 ℍ𝕚, 𝕀’𝕞 @ℍ𝕒𝕟𝕦
 - 👀 I’m interested in programming!
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on github.
