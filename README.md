@@ -2,8 +2,8 @@
 - 👀 I’m interested in programming!
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on github.
-- Wild programmer!
-
+- ~_~ Wild programmer!
+- 𝘎𝘪𝘵𝘩𝘶𝘣 𝘖𝘳𝘨𝘢𝘯𝘪𝘻𝘢𝘵𝘪𝘰𝘯
 - Intreseted ✨✨✨
  
 - Python
