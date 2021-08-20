@@ -3,7 +3,21 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on github.
 - Wild programmer!
-- Intserted in Python, Java, Java script, PHP, perl, Hack, Shell, Android development, Web development, Html, Xml and many more....
+
+- Intreseted ✨✨✨
+ 
+- Python
+- Java
+- Java script
+- PHP
+- perl
+- Hack 
+- Shell
+- Android development
+- Web development
+- Html
+- Xml 
+- and many more....
 
 
 <!---
