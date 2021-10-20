@@ -6,21 +6,6 @@
 
 - 🌀 | 𝘞𝘪𝘭𝘥 𝘗𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘦𝘳.
 
-✨✨👇𝘐𝘯𝘵𝘦𝘳𝘦𝘴𝘵𝘦𝘥 𝘐𝘯👇✨✨
- 
-- Python
-- Java
-- Java script
-- PHP
-- perl
-- Hack 
-- Shell
-- Android development
-- Web development
-- Html
-- Xml 
-- and many more....
-
 
 <!---
 HorridHanu/HorridHanu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
